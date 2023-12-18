@@ -1,6 +1,6 @@
 @font-face {
     font-family: "Outfit";
-    src: url('/main/fonts/Outfit-VariableFont_wght.ttf') format('woff2-variations', 'truetype');
+    src: url('/tree/main/fonts/Outfit-VariableFont_wght.ttf') format('woff2-variations', 'truetype');
     font-weight: 100 200 300 400 500 600 700 800 900;
     font-variation-settings: "fvar";
 }
