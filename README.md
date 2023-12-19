@@ -39,7 +39,7 @@ Work with variables fonts:
 ```css
 @font-face {
     font-family: "Outfit";
-    src: url("./public/fonts/Outfit-VariableFont-wght.ttf") format("truetype");
+    src: url("https://marcosexing.github.io/Frontend-Mentor_QR-code-component-solution/public/fonts/Outfit-VariableFont-wght.ttf") format("truetype");
     font-weight: 100 900;
 }
 
