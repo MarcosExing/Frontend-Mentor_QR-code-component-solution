@@ -39,7 +39,7 @@ Work with variables fonts:
 ```css
 @font-face {
     font-family: "Outfit";
-    src: local("./fonts/Outfit-VariableFont_wght.ttf");
+    src: url("./public/fonts/Outfit-VariableFont-wght.ttf") format("truetype");
     font-weight: 100 900;
 }
 
